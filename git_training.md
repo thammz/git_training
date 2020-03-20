@@ -13,5 +13,3 @@ Covering the basics
 - [] Github desktop
 
 nothing to add
-
-- [x] Added new paragraph
