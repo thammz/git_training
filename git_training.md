@@ -13,3 +13,7 @@ Covering the basics
 - [] Github desktop
 
 nothing to add
+
+New Paragraph
+
+- [x] Added new paragraph in branch
